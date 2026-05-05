@@ -1,2 +1,1 @@
-# scrapping
-This Python script uses Selenium to automatically scrape detailed caravan listings
+High-frequency data extraction engine built with Selenium. Features automated bypass logic for enterprise-scale lead generation.
